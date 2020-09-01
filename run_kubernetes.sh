@@ -16,4 +16,4 @@ kubectl get pods
 
 # Step 4:
 # Forward the container port to a host
-kubectl port-forward vitorcontainer 8080:80
+kubectl port-forward vitorcontainer-576fcbd496-4x77h 8080:80

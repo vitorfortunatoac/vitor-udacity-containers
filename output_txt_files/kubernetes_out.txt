@@ -1,1 +1,5 @@
-<paste log output from Kubernetes-mediated prediction, here>
+Error from server (AlreadyExists): deployments.apps "vitorcontainer" already exists
+NAME                              READY   STATUS    RESTARTS   AGE
+vitorcontainer                    1/1     Running   0          92s
+Forwarding from 127.0.0.1:8080 -> 80
+Forwarding from [::1]:8080 -> 80
